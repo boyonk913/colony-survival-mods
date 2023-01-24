@@ -1,0 +1,41 @@
+[
+	{
+		"cooldown": 60.0,
+		"defaultLimit" : 0,
+		"name" : "pipliz.dyer.carpetred",
+		"requiresScience": "pipliz.dyeing",
+		"requires" : [
+			{"amount":5,"type":"carpetwhite"},
+			{"amount":100,"type":"hollyhock"}
+		],
+		"results" : [
+			{"amount":5,"type":"carpetred"}
+		]
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit" : 0,
+		"name" : "pipliz.dyer.carpetblue",
+		"requiresScience": "pipliz.dyeing",
+		"requires" : [
+			{"amount":5,"type":"carpetwhite"},
+			{"amount":100,"type":"alkanet"}
+		],
+		"results" : [
+			{"amount":5,"type":"carpetblue"}
+		]
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit" : 0,
+		"name" : "pipliz.dyer.carpetyellow",
+		"requiresScience": "pipliz.dyeing",
+		"requires" : [
+			{"amount":5,"type":"carpetwhite"},
+			{"amount":100,"type":"wolfsbane"}
+		],
+		"results" : [
+			{"amount":5,"type":"carpetyellow"}
+		]
+	}
+]

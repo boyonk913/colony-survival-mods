@@ -1,0 +1,50 @@
+{
+	"carpetblue" : {
+		"categories" : [
+			"decorative",
+			"carpet"
+		],
+		"color" : "#0e3f77",
+		"icon" : "./textures/icons/carpetblue.png",
+		"maxStackSize" : 200,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "carpet"
+	},
+	"carpetred" : {
+		"categories" : [
+			"decorative",
+			"carpet"
+		],
+		"color" : "#971113",
+		"icon" : "./textures/icons/carpetred.png",
+		"maxStackSize" : 200,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "carpet"
+	},
+	"carpetwhite" : {
+		"categories" : [
+			"decorative",
+			"carpet"
+		],
+		"color" : "#dedede",
+		"icon" : "./textures/icons/carpetwhite.png",
+		"maxStackSize" : 200,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "carpet"
+	},
+	"carpetyellow" : {
+		"categories" : [
+			"decorative",
+			"carpet"
+		],
+		"color" : "#c6a218",
+		"icon" : "./textures/icons/carpetyellow.png",
+		"maxStackSize" : 200,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "carpet"
+	}
+}

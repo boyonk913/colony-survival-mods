@@ -1,0 +1,15 @@
+{
+	"coverage": 100.0,
+    "types": {
+        "carpetblue": "Blue Carpet",
+        "carpetred": "Red Carpet",
+        "carpetwhite": "White Carpet",
+        "carpetyellow": "Yellow Carpet"
+    },
+    "typeuses": {
+        "carpetblue": "When people don't deserve the red-carpet treatment",
+        "carpetred": "It doesn't matter if you spill berry juice on this carpet!",
+        "carpetwhite": "Color it with a dyer",
+        "carpetyellow": "It's so fluffy!"
+    }
+}

@@ -1,0 +1,15 @@
+[
+	{
+		"cooldown": 80.0,
+		"defaultLimit" : 0,
+		"name" : "pipliz.tailor.carpetwhite",
+		"requiresScience": "pipliz.tailoring",
+		"requires" : [
+			{"type":"planks"},
+			{"type":"linen"}
+		],
+		"results" : [
+			{"type":"carpetwhite"}
+		]
+	}
+]

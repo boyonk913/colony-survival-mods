@@ -1,0 +1,21 @@
+[
+	{
+		"name" : "boyonk's Candles",
+		"description" : "Makes candles placeable",
+		"version" : "1.0.0",
+		"compatibleversions":
+			[
+				"0.9.0"
+			],
+		"jsonFiles" : [
+			{
+				"relativePath" : "./gamedata/override_types.json",
+				"fileType" : "overrideTypeProperties"
+			},
+			{
+				"relativePath": "./gamedata/texturemapping.json",
+				"fileType": "addOrOverrideTextureMappingEntries"
+			}
+		]
+	}
+]

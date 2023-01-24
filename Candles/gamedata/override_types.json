@@ -1,0 +1,46 @@
+{
+	"candle": {
+		"categories": [
+			"ingredient",
+			"decorative"
+		],
+		"colliders": [
+			{
+				"impactsPhysics": false,
+				"max": [
+					0.25,
+					0.1,
+					0.25
+				],
+				"min": [
+					-0.25,
+					-0.5,
+					-0.25
+				]
+			}
+		],
+		"customData": {
+			"colors": [
+				"#ff0000->#71310a",
+				"#00ff00->#997b45",
+				"#0000ff->#3e3e3e"
+			],
+			"torches": {
+				"merged": {
+					"color": "#c3872e",
+					"intensity": 6.25,
+					"offsety": -0.08,
+					"range": 16,
+					"volume": 0.5
+				}
+			}
+		},
+		"isSolid": false,
+		"isPlaceable": true,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "SELF",
+		"mesh": "./meshes/candle.ply",
+		"needsBase": false
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"coverage": 100.0,
+    "types": {
+        "glass": "Glass"
+    },
+    "typeuses": {
+        "glass": "It can be a real pane to place these"
+    }
+}

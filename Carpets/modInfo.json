@@ -1,0 +1,41 @@
+[
+	{
+		"name" : "boyonk's Carpets",
+		"description" : "Adds carpets back into the game",
+		"version" : "1.0.0",
+		"compatibleversions":
+			[
+				"0.9.0"
+			],
+		"jsonFiles" : [
+			{
+				"relativePath" : "./gamedata/types.json",
+				"fileType" : "addNewTypes"
+			},
+			{
+				"relativePath" : "./gamedata/recipes/recipes_tailorshop.json",
+				"fileType": "addOrReplaceNPCRecipes",
+				"limitsUIMapping": [
+					"tailorshop"
+				],
+				"npcType": "pipliz.tailor"
+			},
+			{
+				"relativePath" : "./gamedata/recipes/recipes_dyer.json",
+				"fileType": "addOrReplaceNPCRecipes",
+				"limitsUIMapping": [
+					"dyertable"
+				],
+				"npcType": "pipliz.dyer"
+			},
+			{
+				"relativePath" : "./gamedata/texturemapping.json",
+				"fileType": "addOrOverrideTextureMappingEntries"
+			},
+			{
+				"relativePath": "./gamedata/localization/en-US.json",
+				"fileType": "addOrOverrideLocalization"
+			}
+		]
+	}
+]
